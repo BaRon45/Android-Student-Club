@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tareq/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/tareq/Desktop/StudentClub/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-c493dd2db075c14304de8934cf6ce056a4b9d5dc.jar" />
+    </item>
+    <item
+        jar="/home/tareq/Desktop/StudentClub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/tareq/Desktop/StudentClub/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-44e46ac859831bc9e1145b168e6fe82ee914db04.jar" />
+    </item>
+    <item
+        jar="/home/tareq/Desktop/StudentClub/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/tareq/Desktop/StudentClub/app/build/intermediates/pre-dexed/debug/classes-36b223cbbb1a0a32ad1c76d40f7dbd5dd047d4be.jar" />
+    </item>
+    <item
+        jar="/home/tareq/Desktop/StudentClub/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/tareq/Desktop/StudentClub/app/build/intermediates/pre-dexed/debug/classes-be16b1029263c6bef3001f4bbefa53f6642f6172.jar" />
+    </item>
+
+</items>
